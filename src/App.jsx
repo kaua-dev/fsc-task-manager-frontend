@@ -1,6 +1,6 @@
 import Tasks from "./components/Task";
 
-import TaskItem from "./components/TaskItem";
+// import TaskItem from "./components/TaskItem";
 
 const App = () => {
     return (
