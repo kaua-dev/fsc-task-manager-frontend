@@ -1,6 +1,6 @@
 import CustomButton from "../components/CustomButton";
 
-import "./logo.scss";
+import "./Login.scss";
 import logo from "../assets/images/logo-2.png";
 
 const Login = () => {
